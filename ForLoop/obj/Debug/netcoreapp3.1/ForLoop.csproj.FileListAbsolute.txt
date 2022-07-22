@@ -1,0 +1,14 @@
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.AssemblyReference.cache
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\tyler\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\tyler\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.genruntimeconfig.cache
